@@ -1,7 +1,11 @@
 YTgif
 =====
 
+[Demo link](https://codekonami.github.io/ytgif/)
+
 YTgif is JavaScript library that let you integrate Youtube Videos as gif loop on your website easily.
+
+Just to be clear, it does not generate gif per se. This lib uses the Youtube Player API to simulate a gif-like behavior from Youtube videos.
 
 ## How to
 
